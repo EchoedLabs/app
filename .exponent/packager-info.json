@@ -1,8 +1,0 @@
-{
-  "exponentServerPort": 19001,
-  "packagerPort": 19002,
-  "packagerPid": 13104,
-  "exponentServerNgrokUrl": "https://bf-yat.iamfeek.elapp.exp.direct",
-  "packagerNgrokUrl": "https://packager.bf-yat.iamfeek.elapp.exp.direct",
-  "ngrokPid": 13201
-}
